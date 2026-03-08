@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Eagle-12BH212P-GR")(type "KiCad")(uri "${KIPRJMOD}/Eagle-12BH212P-GR.pretty")(options "")(descr ""))
+)
