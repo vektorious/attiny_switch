@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/home/alex/GitHub/attiny_switch/attiny_switch/attiny_switch.kicad_sch</source>
+    <source>/home/alex/GitHub/privat/attiny_switch/pcb/attiny_switch.kicad_sch</source>
     <date>2026-03-08T15:12:58+0100</date>
     <tool>Eeschema 9.0.7</tool>
     <sheet number="1" name="/" tstamps="/">
@@ -617,7 +617,7 @@
       <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
     </library>
     <library logical="ISP772T">
-      <uri>/home/alex/GitHub/attiny_switch/attiny_switch/ISP772T.kicad_sym</uri>
+      <uri>/home/alex/GitHub/privat/attiny_switch/pcb/ISP772T.kicad_sym</uri>
     </library>
     <library logical="Isolator">
       <uri>/usr/share/kicad/symbols//Isolator.kicad_sym</uri>
